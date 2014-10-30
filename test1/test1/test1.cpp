@@ -2,8 +2,9 @@
 #include "stdafx.h"
 
 
-int main()
+void main()
 {
-	return 0;
+	int i = 9;
+
 }
 
